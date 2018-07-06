@@ -1,0 +1,25 @@
+{
+  "name": "pusha",
+  "version": "1.0.0",
+  "description": "Send Push Notifications to your smartphone using the Pusha API.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telcy/pusha-node.git"
+  },
+  "keywords": [
+    "push",
+    "notifications",
+    "android",
+    "ios",
+    "pusha",
+    "smartphone",
+    "notification"
+  ],
+  "author": "Jascha Burmeister",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
