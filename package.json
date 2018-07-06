@@ -1,6 +1,6 @@
 {
   "name": "pusha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send Push Notifications to your smartphone using the Pusha API.",
   "main": "index.js",
   "scripts": {},
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/telcy/pusha-node/issues"
   },
-  "homepage": "https://github.com/telcy/pusha-node#readme",
+  "homepage": "https://github.com/telcy/pusha-node/",
   "dependencies": {
     "request": "^2.87.0"
   }
