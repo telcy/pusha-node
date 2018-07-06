@@ -17,8 +17,12 @@
     "smartphone",
     "notification"
   ],
-  "author": "Jascha Burmeister",
+  "author": "Jascha Burmeister <support@pusha.io> (https://www.pusha.io)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telcy/pusha-node/issues"
+  },
+  "homepage": "https://github.com/telcy/pusha-node#readme",
   "dependencies": {
     "request": "^2.87.0"
   }
