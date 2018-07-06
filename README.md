@@ -17,7 +17,7 @@ See the full documentation on [Pusha's documentation](https://www.pusha.io/docum
 
 ## Usage
 
-This library needs to be configured with your `API Key` which can be find [here](https://www.pusha.io/applications).
+This library needs to be configured with your `API Key` which can be found [here](https://www.pusha.io/applications).
 
 ```javascript
 const pusha = require('pusha')('YOUR_API_KEY');
