@@ -31,7 +31,7 @@ The user token is needed from every user you wanna send notifications to. They c
 const pusha = require('pusha')('YOUR_API_KEY');
 
 pusha.send({
-    token: 'USER_TOKEN',
+    recipients: ['USER_TOKEN_1', 'USER_TOKEN_2'],
     message: 'hello from node'
 }).then(response => {
     console.log(response)
