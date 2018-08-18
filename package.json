@@ -1,6 +1,6 @@
 {
   "name": "pusha",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Send Push Notifications to your smartphone using the Pusha API.",
   "main": "index.js",
   "scripts": {},
